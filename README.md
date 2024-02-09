@@ -7,11 +7,11 @@ Experimenting with various FP&A tools and solutions in Excel <br>
 <img src="/pics/Summary-2.jpg" width="100%" />
 
 <h2>Financial details</h2>
-<img src="/pics/00-0.jpg" width="100%" />
-<img src="/pics/00-1.jpg" width="100%" />
-<img src="/pics/00-2.jpg" width="100%" />
-<img src="/pics/00-3.jpg" width="100%" />
-<img src="/pics/00-4.jpg" width="100%" />
+<img src="/pics/01-0.jpg" width="100%" />
+<img src="/pics/01-1.jpg" width="100%" />
+<img src="/pics/01-2.jpg" width="100%" />
+<img src="/pics/01-3.jpg" width="100%" />
+<img src="/pics/01-4.jpg" width="100%" />
 <h2>Projections</h2>
 Projections that estimate performance over a 3‐ to 18‐month period, including budgets, operating plans, and forecasts.
 <img src="/pics/FCST.jpg" width="100%" />

@@ -13,7 +13,7 @@ Experimenting with various FP&A tools and solutions in Excel <br>
 <img src="/pics/01-3.jpg" width="100%" />
 <img src="/pics/01-4.jpg" width="100%" />
 <img src="/pics/InvDays.JPG" width="100%" />
-<img src="/pics/MC.JPG" width="100%" />
+<img src="/pics/MC.jpg" width="100%" />
 
 <h2>Projections</h2>
 Projections that estimate performance over a 3‐ to 18‐month period, including budgets, operating plans, and forecasts.

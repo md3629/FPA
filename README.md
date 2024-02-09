@@ -18,6 +18,12 @@ Experimenting with various FP&A tools and solutions in Excel <br>
 <img src="/pics/MC.jpg" width="100%" />
 <img src="/pics/avocado_fcst.jpeg" width="100%" />
 
+<h2>Business Model</h2>
+<img src="/pics/02-1.jpg" width="100%" />
+<img src="/pics/02-2.jpg" width="100%" />
+<img src="/pics/02-3.jpg" width="100%" />
+<img src="/pics/02-4.jpg" width="100%" />
+
 <h2>Projections</h2>
 Projections that estimate performance over a 3‐ to 18‐month period, including budgets, operating plans, and forecasts.
 <img src="/pics/FCST.jpg" width="100%" />

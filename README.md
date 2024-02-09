@@ -3,6 +3,10 @@
 Experimenting with various FP&A tools and solutions in Excel <br>
 Dealing with uncertainity and risk here: <br>
 https://github.com/md3629/PredictiveAnalytics<br><br>
+
+Dealing with Marketing Mix Modelling based on multiple regression here<br>
+https://github.com/md3629/Marketing_mix_modelling<br><br>
+
 <h2>Financial summary</h2>
 <img src="/pics/Summary-0.jpg" width="100%" />
 <img src="/pics/Summary-1.jpg" width="100%" />

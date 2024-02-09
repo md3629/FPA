@@ -6,7 +6,7 @@ https://github.com/md3629/PredictiveAnalytics<br><br>
 
 Dealing with Marketing Mix Modelling based on multiple regression here<br>
 https://github.com/md3629/Marketing_mix_modelling<br><br>
-Dealing with Customer Segmentation based on K here<br>
+Dealing with Customer Segmentation based on K means here<br>
 https://github.com/md3629/Customer-segmentation
 
 <h2>Financial summary</h2>

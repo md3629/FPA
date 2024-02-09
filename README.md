@@ -1,6 +1,6 @@
 # FP&A
  
-Experimenting with various FP&A tools and solutions in Excel <br>
+Experimenting with various FP&A tools and solutions in Excel <br><br>
 Dealing with uncertainity and risk here: <br>
 https://github.com/md3629/PredictiveAnalytics<br><br>
 

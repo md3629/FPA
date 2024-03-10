@@ -11,7 +11,7 @@ Dealing with Budgeting in BI here<br>
 
 ### Key aspects of FP&A include* (based on ChatGPT):
 
-[ ] **Budgeting and Forecasting**: FP&A professionals are responsible for developing and managing budgets, as well as creating forecasts that help guide the organization's financial decisions.
+- [x] **Budgeting and Forecasting**: FP&A professionals are responsible for developing and managing budgets, as well as creating forecasts that help guide the organization's financial decisions.
 
 **Financial Reporting**: Generating and analyzing financial reports to provide insights into the company's performance. This may involve comparing actual financial results to budgeted or forecasted figures.
 

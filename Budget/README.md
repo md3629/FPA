@@ -13,3 +13,5 @@ Excellent proof of concept by SQLBI: [DAX Patterns](https://www.daxpatterns.com/
 ## Budget: Bottom-up
 In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed planning. The source data encompasses a granular sales plan, offering insights at multiple levels, including month, country, product category, quantity/units, and stores. This methodology involves the creation of sub-budgets by budget holders, with the primary objective being the integration of these mini-budgets.<br>
 ### 1. Converting to a tabular format using M 
+
+<img src="/pics/QueryDependency.jpg" width="100%" />

@@ -1,7 +1,7 @@
 # FP&A
  
 Experimenting with various FP&A tools and solutions in Excel <br><br>
-Dealing with Forecasting here<br>
+Dealing with Forecasting in R here<br>
 https://github.com/md3629/Data-Science/tree/main/Forecasting
 <br>
 <h2>Financial summary</h2>

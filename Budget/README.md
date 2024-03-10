@@ -23,4 +23,5 @@ In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed 
 ### 3. Creating measures using DAX
 
 ### 4. Create visuals and tables
-
+Please check it out:<br>
+Budget/data/Budget.xlsx

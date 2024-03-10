@@ -2,7 +2,8 @@
  
 Experimenting with various FP&A tools and solutions in Excel <br><br>
 Dealing with Budgeting in BI here<br>
-[BUdgeting](https://github.com/md3629/Data-Science/tree/main/Forecasting)
+[BUdgeting]
+(https://github.com/md3629/FPA/tree/main/Budget)<br>
 Dealing with Forecasting in R here<br>
 [Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)
 <br>

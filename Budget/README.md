@@ -11,4 +11,4 @@ When the forecast needs to be reallocated, we consider the sales in the previous
 [DAX Patterns](https://www.daxpatterns.com/budget/)
 
 ## Budget: Bottom-up
-In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed planning. The source data encompasses a granular sales plan, offering insights at multiple levels, including month, country, product category, and stores. This methodology involves the creation of sub-budgets by budget holders, with the primary objective being the integration of these mini-budgets.<br>
+In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed planning. The source data encompasses a granular sales plan, offering insights at multiple levels, including month, country, product category, quantity/units, and stores. This methodology involves the creation of sub-budgets by budget holders, with the primary objective being the integration of these mini-budgets.<br>

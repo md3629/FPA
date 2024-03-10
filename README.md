@@ -2,7 +2,8 @@
  
 Experimenting with various FP&A tools and solutions in Excel <br><br>
 Dealing with Forecasting here<br>
-https://github.com/md3629/Data-Science/Forecasting<br><br>
+https://github.com/md3629/Data-Science/tree/main/Forecasting
+<br>
 <h2>Financial summary</h2>
 <img src="/pics/Summary-0.jpg" width="100%" />
 <img src="/pics/Summary-1.jpg" width="100%" />

@@ -8,7 +8,7 @@ When the forecast needs to be reallocated, we consider the sales in the previous
 - :shipit: this is the best approach for rolling budget when forceasting is derived on for example **R** in Data Science. Testing of the likelihood can be done with Simulations using Monte Carlo simulations.
 #### Automation using BI: DAX showcase 
 
-[showcase](https://www.daxpatterns.com/daxpatterns/wp-content/uploads/sites/151/2020/06/F-14-02.png)
+[DAX Patterns](https://www.daxpatterns.com/budget/)
 
 ## Budget: Bottom-up
 The scenario is a bottom-up budget (planning) scenario. The source data contains a planning of sales at a _high granularity_. High granularity means that the information provided is at at various level of detail: month, country, product category, or stores. This approach is based on the production of budget holder sub-budget and the main task is the integration of mini-budgets.<br>

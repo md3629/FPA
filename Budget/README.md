@@ -1,6 +1,4 @@
-# Budget <img src="/pics/DAX logo.jpg" align="right" width="20%"/>
-
-pics/DAX logo.jpg
+# Budget <img src="/pics/DAX logo.jpg" align="right" width="30%"/>
 
 Showcase of the two approaches in Budgeting process: top down and bottom up. <br>
 ## Budget: Top-down 

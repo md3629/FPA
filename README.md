@@ -2,9 +2,9 @@
  
 Experimenting with various FP&A tools and solutions in Excel <br><br>
 Dealing with Budgeting in BI here<br>
-- :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget)<br>
-:point_right: Dealing with Forecasting in R here<br>
-[Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)
+:point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget)<br>
+ Dealing with Forecasting in R here<br>
+:point_right: [Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)
 <br>
 
 **FP&A** stands for Financial Planning and Analysis. It is a financial management process that involves evaluating and analyzing an organization's financial performance, as well as planning for its future financial activities. The FP&A function is crucial for strategic decision-making within a company.

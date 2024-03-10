@@ -17,6 +17,6 @@ In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed 
 <img src="/pics/QueryDependency.JPG" width="50%" />
 
 ### 2. Converting actuals to a tabular format
-### 3. Appending our budget and actual
+### 3. Appending our budget and actual data sources
 ### 4. Creating measures
 ### 5. Creating special layouts

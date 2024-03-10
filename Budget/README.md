@@ -1,4 +1,4 @@
-# Budget <img src="FPA/pics/DAX logo.jpg" align="right" />
+# Budget <img src="/pics/DAX logo.jpg" align="right" />
 
 pics/DAX logo.jpg
 

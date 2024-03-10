@@ -24,4 +24,4 @@ In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed 
 
 ### 4. Create visuals and tables
 Please check it out:<br>
-Budget/data/Budget.xlsx
+_Budget/data/Budget.xlsx_

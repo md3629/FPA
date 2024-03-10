@@ -13,15 +13,15 @@ Dealing with Budgeting in BI here<br>
 
 - [x] **Budgeting and Forecasting**: FP&A professionals are responsible for developing and managing budgets, as well as creating forecasts that help guide the organization's financial decisions.
 
-**Financial Reporting**: Generating and analyzing financial reports to provide insights into the company's performance. This may involve comparing actual financial results to budgeted or forecasted figures.
+- [x] **Financial Reporting**: Generating and analyzing financial reports to provide insights into the company's performance. This may involve comparing actual financial results to budgeted or forecasted figures.
 
-**Variance Analysis**: Examining the differences between planned or budgeted figures and actual results to identify the reasons for any discrepancies and to make informed adjustments for future planning.
+- [x] **Variance Analysis**: Examining the differences between planned or budgeted figures and actual results to identify the reasons for any discrepancies and to make informed adjustments for future planning.
 
-**Strategic Planning**: Collaborating with other departments to align financial goals with overall business objectives. This involves providing financial insights to support strategic decision-making.
+- [x] **Strategic Planning**: Collaborating with other departments to align financial goals with overall business objectives. This involves providing financial insights to support strategic decision-making.
 
-**Performance Metrics and KPIs**: Defining and monitoring key performance indicators (KPIs) to assess the company's financial health and performance.
+- [x] **Performance Metrics and KPIs**: Defining and monitoring key performance indicators (KPIs) to assess the company's financial health and performance.
 
-**Scenario Analysis**: Assessing various financial scenarios to help the organization prepare for different potential outcomes and make informed decisions based on that analysis.
+- [x] **Scenario Analysis**: Assessing various financial scenarios to help the organization prepare for different potential outcomes and make informed decisions based on that analysis.
 
 FP&A professionals often work closely with executive management, providing financial information and insights that are essential for strategic planning and overall business success. The role requires a combination of financial expertise, analytical skills, and a deep understanding of the company's operations and industry dynamics.
 

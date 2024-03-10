@@ -1,8 +1,10 @@
 # FP&A
  
 Experimenting with various FP&A tools and solutions in Excel <br><br>
+Dealing with Budgeting in BI here<br>
+[BUdgeting](https://github.com/md3629/Data-Science/tree/main/Forecasting)
 Dealing with Forecasting in R here<br>
-https://github.com/md3629/Data-Science/tree/main/Forecasting
+[Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)
 <br>
 <h2>Financial summary</h2>
 <img src="/pics/Summary-0.jpg" width="100%" />

@@ -20,5 +20,7 @@ In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed 
 
 <img src="/pics/StarSchema.JPG" width="50%" />
 
-### 3. Creating measures
+### 3. Creating measures using DAX
+
+### 4. Create visuals and tables
 

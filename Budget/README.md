@@ -1,4 +1,4 @@
-# Budget <img src="/pics/DAX logo.jpg" align="right" width="10%"/>
+# Budget <img src="/pics/DAX logo.jpg" align="right" width="20%"/>
 
 pics/DAX logo.jpg
 

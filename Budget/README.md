@@ -1,4 +1,4 @@
-# Budget 
+# Budget <img src="/Budget/pi/Dax logo.jpg" align="right" />
 
 Showcase of the two approaches in Budgeting process: top down and bottom up. <br>
 ## Budget: Top-down 

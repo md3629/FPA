@@ -1,6 +1,6 @@
 # FP&A
  
-Experimenting with various FP&A tools and solutions in Excel <br><br>
+Experimenting with various FP&A tools and solutions in BI - Excel <br><br>
 Dealing with Budgeting in BI here<br>
 :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget)<br>
  Dealing with Forecasting in R here<br>

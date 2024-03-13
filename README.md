@@ -9,7 +9,9 @@ Dealing with Budgeting in BI here<br>
 
 **FP&A** stands for Financial Planning and Analysis. It is a financial management process that involves evaluating and analyzing an organization's financial performance, as well as planning for its future financial activities. The FP&A function is crucial for strategic decision-making within a company.
 
-### Key aspects of FP&A include* (based on ChatGPT):
+### Key aspects of FP&A include[^1]:
+
+[^1]: based on ChatGPT
 
 - [x] **Budgeting and Forecasting**: FP&A professionals are responsible for developing and managing budgets, as well as creating forecasts that help guide the organization's financial decisions.
 
@@ -50,9 +52,9 @@ FP&A professionals often work closely with executive management, providing finan
 
 <h2>Projections</h2>
 Projections that estimate performance over a 3‐ to 18‐month period, including budgets, operating plans, and forecasts.
-<img src="/pics/FCST.jpg" width="50%" />
+<img src="/pics/FCST.jpg" width="100%" />
 
-<img src="/pics/FCST1.jpg" width="50%" />
+<img src="/pics/FCST1.jpg" width="100%" />
 <h2>Long‐term projections</h2>
 Long‐term projections (LTPs) are required to evaluate new products, acquisitions, capital investments, and strategic plans.
 <img src="/pics/03. Forecast Summary.jpg" width="50%" />

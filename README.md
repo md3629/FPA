@@ -33,7 +33,9 @@ FP&A professionals often work closely with executive management, providing finan
 <img src="/pics/Summary-0.jpg" width="100%" />
 <img src="/pics/Summary-1.jpg" width="100%" />
 <img src="/pics/Summary-2.jpg" width="100%" />
+
 ## Financial details
+
 <img src="/pics/01-0.jpg" width="100%" />
 <img src="/pics/violin.jpg" width="100%" />
 <img src="/pics/InvAnalysis.jpg" width="100%" />

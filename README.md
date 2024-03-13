@@ -23,6 +23,7 @@ Dealing with Budgeting in BI :point_right: [Budgeting](https://github.com/md3629
 - [x] **Performance Metrics and KPIs**: Defining and monitoring key performance indicators (KPIs) to assess the company's financial health and performance.
 
 - [x] **Scenario Analysis**: Assessing various financial scenarios to help the organization prepare for different potential outcomes and make informed decisions based on that analysis.
+
 <br> **Key Topics:**
 
 | Section | Description|

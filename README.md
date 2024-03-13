@@ -10,6 +10,18 @@ Dealing with Budgeting in BI here<br>
 
 **FP&A** stands for Financial Planning and Analysis. It is a financial management process that involves evaluating and analyzing an organization's financial performance, as well as planning for its future financial activities. The FP&A function is crucial for strategic decision-making within a company.
 
+<br> **Key Topics:**
+
+| Section | Description|
+|---------|------------|
+| 1 | Predictive Analytics under uncertainity using Monte Carlo simulation |
+| 2 | Real options |
+| 3 | Customer Segmentation (Clustering) |
+| 4 | Marketing Mix Modelling |
+| 5 | Forecasting |
+| 6 | Lagged Predictors |
+
+
 ## Key aspects of FP&A include[^2]:
 
 [^2]: based on ChatGPT

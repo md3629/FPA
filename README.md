@@ -36,15 +36,14 @@ FP&A professionals often work closely with executive management, providing finan
 | 2 | Financial details |
 | 3 | Business Model |
 | 4 | Projections |
-| 5 | Forecasting |
-| 6 | Long‐term projections |
+| 5 | Long‐term projections |
 
-## Financial summary
+## 1. Financial summary
 <img src="/pics/Summary-0.jpg" width="100%" />
 <img src="/pics/Summary-1.jpg" width="100%" />
 <img src="/pics/Summary-2.jpg" width="100%" />
 
-## Financial details
+## 2. Financial details
 
 <img src="/pics/01-0.jpg" width="100%" />
 <img src="/pics/violin.jpg" width="100%" />
@@ -57,19 +56,19 @@ FP&A professionals often work closely with executive management, providing finan
 <img src="/pics/MC.jpg" width="100%" />
 <img src="/pics/avocado_fcst.jpeg" width="100%" />
 
-## Business Model
+## 3. Business Model
 <img src="/pics/02-1.jpg" width="100%" />
 <img src="/pics/02-2.jpg" width="100%" />
 <img src="/pics/02-3.jpg" width="100%" />
 <img src="/pics/02-4.jpg" width="100%" />
 
-## Projections
+## 4. Projections
 Projections that estimate performance over a 3‐ to 18‐month period, including budgets, operating plans, and forecasts.
 <img src="/pics/FCST.jpg" width="100%" />
 
 <img src="/pics/FCST1.jpg" width="100%" />
 
-## Long‐term projections
+## 5. Long‐term projections
 
 Long‐term projections (LTPs) are required to evaluate new products, acquisitions, capital investments, and strategic plans.
 <img src="/pics/03. Forecast Summary.jpg" width="100%" />

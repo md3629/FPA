@@ -1,5 +1,5 @@
-# FP&A
- 
+# FP&A[^1]
+ [^1]: 
 Experimenting with various FP&A tools and solutions in BI - Excel <br><br>
 Dealing with Budgeting in BI here<br>
 :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget)<br>
@@ -9,9 +9,9 @@ Dealing with Budgeting in BI here<br>
 
 **FP&A** stands for Financial Planning and Analysis. It is a financial management process that involves evaluating and analyzing an organization's financial performance, as well as planning for its future financial activities. The FP&A function is crucial for strategic decision-making within a company.
 
-### Key aspects of FP&A include[^1]:
+### Key aspects of FP&A include[^2]:
 
-[^1]: based on ChatGPT
+[^2]: based on ChatGPT
 
 - [x] **Budgeting and Forecasting**: FP&A professionals are responsible for developing and managing budgets, as well as creating forecasts that help guide the organization's financial decisions.
 

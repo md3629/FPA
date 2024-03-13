@@ -1,5 +1,5 @@
 # FP&A[^1]
- [^1]: :point_right: [https://md3629.github.io/]
+ [^1]: :point_right: [my tools](https://md3629.github.io/)
 
 Experimenting with various FP&A tools and solutions in BI - Excel <br><br>
 Dealing with Budgeting in BI here<br>

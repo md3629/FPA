@@ -8,5 +8,8 @@
 
 ## 3. Create visuals and tables
 
+<img src="/FinancialDetails/SalesBacklog/pic/Chart_SalesBacklog.JPG" width="100%"/>
+
+
 Please check it out:
 👉 SalesBacklog/Model.xlsx

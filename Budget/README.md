@@ -10,7 +10,7 @@ When the forecast needs to be reallocated, we consider the sales in the previous
 
 Proof of concept :point_right: Budget/data/Budget - Top Down.pbix
 
-<img src="/FPA/Budget/pic/Budget_TopDown.JPG" width="50%" />
+<img src="/Budget/pic/Budget_TopDown.JPG" width="50%" />
 Budget/pic/Budget_TopDown.JPG
 <img src="/FinancialDetails/SalesBacklog/pic/Chart_SalesBacklog.JPG" width="100%"/>
 

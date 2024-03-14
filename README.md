@@ -49,7 +49,6 @@
 <img src="/pics/01-4.jpg" width="100%" />
 <img src="/pics/InvDays.JPG" width="100%" />
 <img src="/FinancialDetails/SalesBacklog/pic/Chart_SalesBacklog.JPG" width="100%"/>
-<img src="/pics/avocado_fcst.jpeg" width="100%" />
 
 ## 3. Business Model
 <img src="/pics/02-1.jpg" width="100%" />
@@ -68,5 +67,6 @@ Projections that estimate performance over a 3‐ to 18‐month period, includin
 
 Long‐term projections (LTPs) are required to evaluate new products, acquisitions, capital investments, and strategic plans.
 <img src="/pics/03. Forecast Summary.jpg" width="100%" />
+<img src="/pics/avocado_fcst.jpeg" width="100%" />
 
 

@@ -31,5 +31,5 @@ Please check it out:<br>
 
 <img src="/md3629/Data-Science/Predictive-Analytics/pic/MC-6.jpg" width="100%" /> <br>
 
-<img src="Predictive-Analytics/pic/MC-5.jpg" width="100%" />
+<img src="/Predictive-Analytics/pic/MC-5.jpg" width="100%" />
 

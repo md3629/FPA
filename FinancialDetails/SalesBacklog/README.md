@@ -2,5 +2,6 @@
 
 ## ETL
 
-<img src="FPA/FinancialDetails/SalesBacklog/pic/QueryDependency_SalesBacklog.JPG" width="100%"/>
+<img src="/pic/QueryDependency_SalesBacklog.JPG" width="100%"/>
 
+FPA/FinancialDetails/SalesBacklog

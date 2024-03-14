@@ -16,11 +16,11 @@ Proof of concept :point_right: Budget/data/Budget - Top Down.pbix
 In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed planning. The source data encompasses a granular sales plan, offering insights at multiple levels, including month, country, product category, quantity/units, and stores. This methodology involves the creation of sub-budgets, with the primary objective being the integration of these mini-budgets.<br>
 ### 1. ETL: Converting our budget to a tabular format 
 
-<img src="/pics/QueryDependency.JPG" width="50%" /> 
+<img src="/pics/QueryDependency.JPG" width="100%" /> 
 
 ### 2. Creating star schema
 
-<img src="/pics/StarSchema.JPG" width="50%" />
+<img src="/pics/StarSchema.JPG" width="100%" />
 
 ### 3. Creating measures using DAX
 

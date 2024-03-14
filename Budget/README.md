@@ -1,5 +1,5 @@
 # Budget <img src="/pics/DAX logo.jpg" align="right" width="30%"/>
-<img src="./Predictive-Analytics/pic/MC-6.jpg" width="100%" />
+<img src="./Data-Science/Predictive-Analytics/pic/MC-6.jpg" width="100%" />
 Showcase of the two approaches in Budgeting process: top down and bottom up. <br>
 ## Budget: Top-down 
 The scenario is a top-down forecasting scenario. The source data contains a forecast of sales for different scenarios at a _low granularity_. Low granularity means that the information provided is at a very high level: year, store country, and product category. There are no details about individual products, months or stores.<br>

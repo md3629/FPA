@@ -30,7 +30,7 @@ Dealing with Budgeting in BI :point_right: [Budgeting](https://github.com/md3629
 |---------|------------|-------------|
 | 1 | Financial summary |
 | 2 | Financial details |
-| 2.1 | Sales Backlog Analysis | test|
+| 2.1 | Sales Backlog Analysis | [sample](https://github.com/md3629/FPA/tree/main/FinancialDetails)|
 | 3 | Business Model |
 | 4 | Projections |
 | 5 | Long‐term projections |

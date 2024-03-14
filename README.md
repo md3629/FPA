@@ -50,6 +50,7 @@
 <img src="/pics/01-3.jpg" width="100%" />
 <img src="/pics/01-4.jpg" width="100%" />
 <img src="/pics/InvDays.JPG" width="100%" />
+<img src="/FinancialDetails/SalesBacklog/pic/Chart_SalesBacklog.JPG" width="100%"/>
 <img src="/pics/MC.jpg" width="100%" />
 <img src="/pics/avocado_fcst.jpeg" width="100%" />
 

@@ -31,8 +31,7 @@
 | _2.2_ | _Inventory Management_ | [sample](https://github.com/md3629/FPA/tree/main/FinancialDetails/InventoryManagement) |
 | 3 | Business Model |
 | 4 | Projections | :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget) | 
-| 5 | Long‐term projections |
-| _5.1_ | _Forecasting in R_ | :point_right: [Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)|
+| 5 | Long‐term projections | :point_right: [Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)|
 
 ## 1. Financial summary
 <img src="/pics/Summary-0.jpg" width="100%" />

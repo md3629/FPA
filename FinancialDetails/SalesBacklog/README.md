@@ -1,6 +1,6 @@
 # Sales Backlog
 
-## 1. ETL using Mfor
+## 1. ETL using M
 
 This Excel showcase utilizes Power Query's ETL features to integrate three primary data sources: Invoices, Sales Orders, and the Open Sales Order report. Through a series of transformations, the data is processed to generate individual records for each day between Sales Orders and Invoices.
 

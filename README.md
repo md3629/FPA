@@ -24,7 +24,7 @@
 <br> **Key Topics:**
 
 | Section | Description| Sample work |
-|---------|------------|-------------|
+|:---: |:--- |:---: |
 | 1 | Financial summary |
 | 2 | Financial details |
 | 2.1 | Sales Backlog Analysis | [sample](https://github.com/md3629/FPA/tree/main/FinancialDetails)|

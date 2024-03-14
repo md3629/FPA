@@ -27,12 +27,12 @@
 |:---: |:--- |:---: |
 | 1 | Financial summary |
 | 2 | Financial details |
-| 2.1 | Sales Backlog Analysis | [sample](https://github.com/md3629/FPA/tree/main/FinancialDetails)|
+| _2.1_ |_ Sales Backlog Analysis_ | [sample](https://github.com/md3629/FPA/tree/main/FinancialDetails)|
 | 3 | Business Model |
 | 4 | Projections |
-| 4.1 | Variance Analysis | :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget) |
+| _4.1_ | _Variance Analysis_ | :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget) |
 | 5 | Long‐term projections |
-| 5.1 | Forecasting in R | :point_right: [Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)|
+| _5.1_ | _Forecasting in R_ | :point_right: [Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)|
 
 ## 1. Financial summary
 <img src="/pics/Summary-0.jpg" width="100%" />

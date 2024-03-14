@@ -27,9 +27,9 @@ In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed 
 ### 4. Create visuals and tables
 Please check it out:<br>
 :point_right: _Budget/data/Model.xlsx_
+<br>
 
+<img src="/md3629/Data-Science/Predictive-Analytics/pic/MC-6.jpg" width="100%" /> <br>
 
-<img src="/md3629/Data-Science/Predictive-Analytics/pic/MC-6.jpg" width="100%" /> 
-
-
+<img src="Predictive-Analytics/pic/MC-5.jpg" width="100%" />
 

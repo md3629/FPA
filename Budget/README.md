@@ -8,7 +8,7 @@ When the forecast needs to be reallocated, we consider the sales in the previous
 - :shipit: this is the best approach for rolling budget when forceasting is derived on for example **R** in Data Science. Testing of the likelihood can be done with Simulations using Monte Carlo simulations.
 #### Automation using BI: DAX showcase 
 
-Excellent proof of concept by SQLBI :point_right: [DAX Patterns](https://www.daxpatterns.com/budget/)
+Excellent proof of concept by SQLBI :point_right: Budget/data/Budget - Top Down.pbix
 
 ## Budget: Bottom-up
 In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed planning. The source data encompasses a granular sales plan, offering insights at multiple levels, including month, country, product category, quantity/units, and stores. This methodology involves the creation of sub-budgets, with the primary objective being the integration of these mini-budgets.<br>

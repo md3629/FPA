@@ -28,5 +28,7 @@ In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed 
 Please check it out:<br>
 :point_right: _Budget/data/Model.xlsx_
 
+
 <img src="/Data-Science/Predictive-Analytics/pic/MC-6.jpg" width="100%" /> 
-Data-Science
+
+

@@ -26,10 +26,11 @@ Dealing with Budgeting in BI :point_right: [Budgeting](https://github.com/md3629
 
 <br> **Key Topics:**
 
-| Section | Description|
-|---------|------------|
+| Section | Description| Sample work |
+|---------|------------|-------------|
 | 1 | Financial summary |
 | 2 | Financial details |
+| 2.1 | Sales Backlog Analysis | test|
 | 3 | Business Model |
 | 4 | Projections |
 | 5 | Long‐term projections |

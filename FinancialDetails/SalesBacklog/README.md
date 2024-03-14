@@ -2,4 +2,4 @@
 
 ## ETL
 
-<img src="/pics/DAX logo.jpg" width="100%"/>
+<img src="/pic/QueryDependency_SalesBacklog.JPG" width="100%"/>

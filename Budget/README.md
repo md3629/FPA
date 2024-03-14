@@ -29,6 +29,6 @@ Please check it out:<br>
 :point_right: _Budget/data/Model.xlsx_
 
 
-<img src="/Data-Science/Predictive-Analytics/pic/MC-6.jpg" width="100%" /> 
+<img src="md3629/Data-Science/Predictive-Analytics/pic/MC-6.jpg" width="100%" /> 
 
-
+Predictive-Analytics/pic

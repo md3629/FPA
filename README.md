@@ -1,7 +1,7 @@
 # FP&A[^1]
  [^1]: :point_right: [my tools](https://md3629.github.io/)
 
-> Experimenting with various FP&A tools and solutions in BI - Excel <br><br>
+> Experimenting with various FP&A tools and solutions in BI - Excel 
 
 **FP&A** stands for Financial Planning and Analysis. It is a financial management process that involves evaluating and analyzing an organization's financial performance, as well as planning for its future financial activities.
 

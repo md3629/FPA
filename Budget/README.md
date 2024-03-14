@@ -10,10 +10,7 @@ When the forecast needs to be reallocated, we consider the sales in the previous
 
 Proof of concept :point_right: Budget/data/Budget - Top Down.pbix
 
-<img src="/Budget/pic/Budget_TopDown.JPG" width="50%" />
-Budget/pic/Budget_TopDown.JPG
-<img src="/FinancialDetails/SalesBacklog/pic/Chart_SalesBacklog.JPG" width="100%"/>
-
+<img src="/Budget/pic/Budget_TopDown.JPG" width="100%" />
 
 ## Budget: Bottom-up
 In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed planning. The source data encompasses a granular sales plan, offering insights at multiple levels, including month, country, product category, quantity/units, and stores. This methodology involves the creation of sub-budgets, with the primary objective being the integration of these mini-budgets.<br>

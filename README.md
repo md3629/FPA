@@ -1,10 +1,7 @@
 # FP&A[^1]
  [^1]: :point_right: [my tools](https://md3629.github.io/)
 
-Experimenting with various FP&A tools and solutions in BI - Excel <br><br>
-Dealing with Budgeting in BI :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget)<br>
-Dealing with Forecasting in R :point_right: [Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)
-<br>
+> Experimenting with various FP&A tools and solutions in BI - Excel <br><br>
 
 **FP&A** stands for Financial Planning and Analysis. It is a financial management process that involves evaluating and analyzing an organization's financial performance, as well as planning for its future financial activities.
 
@@ -35,6 +32,7 @@ Dealing with Forecasting in R :point_right: [Forecasting](https://github.com/md3
 | 4 | Projections |
 | 4.1 | Variance Analysis | :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget) |
 | 5 | Long‐term projections |
+| 5.1 | Forecasting in R | :point_right: [Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)|
 
 ## 1. Financial summary
 <img src="/pics/Summary-0.jpg" width="100%" />

@@ -29,5 +29,7 @@ Please check it out:<br>
 :point_right: _Budget/data/Model.xlsx_
 
 
-<img src="/Predictive-Analytics/pic/MC-6.jpg" width="100%" /> 
+<img src="https://github.com/md3629/Data-Science/Predictive-Analytics/pic/MC-6.jpg" width="100%" /> 
+
+https://github.com/md3629/Data-Science
 

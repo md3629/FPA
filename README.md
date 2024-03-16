@@ -69,5 +69,6 @@ Long‐term projections (LTPs) are required to evaluate new products, acquisitio
 <img src="/pics/03. Forecast Summary.jpg" width="100%" />
 <img src="/pics/avocado_fcst.jpeg" width="100%" />
 <img src="/Budget/pic/Budget_TopDown.JPG" width="100%" />
+<img src="/FinancialDetails/InventoryManagement/pics/InvFcst.JPG" width="100%"/>
 
 

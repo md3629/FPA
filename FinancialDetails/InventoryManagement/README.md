@@ -1,1 +1,2 @@
-<img src="/FinancialDetails/InventoryManagement/pics/Chart_SalesBacklog.JPG" width="100%"/>
+# Inventory Management
+<img src="/FinancialDetails/InventoryManagement/pics/InvAnalysis.jpg" width="100%"/>

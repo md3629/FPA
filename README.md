@@ -23,7 +23,7 @@
 
 <br> **Key Topics:**
 
-| Section | Description| Sample work |
+| Section | Description| Sample |
 |:---: |:--- |:---: |
 | 1 | Financial summary | :point_right: [sample](https://github.com/md3629/FPA/blob/main/FinancialSummary)
 | 2 | Financial details |

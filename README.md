@@ -25,7 +25,7 @@
 
 | Section | Description| Sample work |
 |:---: |:--- |:---: |
-| 1 | Financial summary | [sample](Summaries https://github.com/md3629/FPA/blob/main/data/Exec%20Summary%20with%20Budget.xlsx)
+| 1 | Financial summary | [sample](https://github.com/md3629/FPA/blob/main/data/Exec%20Summary%20with%20Budget.xlsx)
 | 2 | Financial details |
 | _2.1_ | _Sales Backlog Analysis_ | [sample](https://github.com/md3629/FPA/tree/main/FinancialDetails/SalesBacklog)|
 | _2.2_ | _Inventory Management_ | [sample](https://github.com/md3629/FPA/tree/main/FinancialDetails/InventoryManagement) |

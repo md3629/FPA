@@ -30,7 +30,7 @@
 | _2.1_ | _Sales Backlog Analysis_ | :point_right: [sample](https://github.com/md3629/FPA/tree/main/FinancialDetails/SalesBacklog)|
 | _2.2_ | _Inventory Management_ | :point_right: [sample](https://github.com/md3629/FPA/tree/main/FinancialDetails/InventoryManagement) |
 | 3 | Business Model |
-| 4 | Projections | :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget)<br>:point_right: [Inventory](https://github.com/md3629/FPA/tree/main/FinancialDetails/InventoryManagement) | 
+| 4 | Projections | :point_right: [Budgeting](https://github.com/md3629/FPA/tree/main/Budget) | 
 | 5 | Long‐term projections | :point_right: [Forecasting](https://github.com/md3629/Data-Science/tree/main/Forecasting)|
 
 ## 1. Financial summary

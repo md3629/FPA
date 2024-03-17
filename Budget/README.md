@@ -25,6 +25,7 @@ The same process is replicated for the actuals, where individual actual reports 
 
 ### 2. Creating the Master Table
 The the tables are merged into a master table with a star schema. A star schema is a database design where data is organized into a central "fact" table surrounded by "dimension" tables. The fact table contains the core data, while dimension tables provide context. Benefits include simplified queries, faster data retrieval, and easier data analysis due to clear relationships between tables. :point_right: _Budget/data/Model.xlsx_
+
 <img src="/pics/StarSchema.JPG" width="100%" />
 
 ### 3. Creating measures using DAX

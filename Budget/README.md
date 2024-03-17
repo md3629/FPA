@@ -19,8 +19,9 @@ The ETL stage involves restructuring five mini-budgets stored in separate Excel 
 <img src="/pics/QueryDependency.JPG" width="100%" /> 
 
 #### 1.2 Preparing actuals
+The same process is replicated for the actuals, where individual actual data sets are structured and merged with the master actuals budget using M language, then loaded into a tabular format. :point_right: _Budget/data/Actuals.xlsx_
+
 <img src="/Budget/pic/QueryDependency_Actuals.JPG" width="100%" /> <br>
-:point_right: _Budget/data/Actuals.xlsx_
 
 #### 1.3 Merging Actuals and Budget
 

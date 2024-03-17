@@ -28,20 +28,9 @@ The the tables are merged into a master table with a star schema. A star schema 
 <img src="/pics/StarSchema.JPG" width="100%" />
 
 ### 3. Creating measures using DAX
-A DAX measure is a calculation formula used in Power BI and Excel Power Pivot to perform calculations on data fields. It helps derive new insights from the data by creating custom metrics or aggregations. Benefits include flexibility in analysis, allowing users to create tailored calculations specific to their needs, and enhancing the depth of insights derived from the data. <br>
+A DAX measure is a calculation formula used in Power BI and Excel Power Pivot to perform calculations on data fields. It helps derive new insights from the data by creating custom metrics or aggregations. Benefits include flexibility in analysis, allowing users to create tailored calculations specific to their needs, and enhancing the depth of insights derived from the data.
 
-Here's an example of a DAX measure for calculating Year-to-Date (YTD) in Power BI or Excel Power Pivot:
-
- > YTD Sales = TOTALYTD(SUM(Sales[Amount]), 'Date'[Date])
-
-In this example:
-Sales[Amount] is the column containing the sales amounts.
-'Date'[Date] is the date column.
-TOTALYTD is the DAX function used to calculate the year-to-date total.
-SUM is used to sum the sales amounts.
-This formula calculates the total sales amount year-to-date based on the dates in the 'Date' column.
-
-### 4. Create visuals and tables
+### 4. Create visuals
 
 ### 5. Create reports using MDX/CUBE functions in Excel
 

@@ -32,9 +32,7 @@ The the tables are merged into a master table with a star schema. A star schema 
 ### 3. Creating measures using DAX
 A DAX measure is a calculation formula used in Power BI and Excel Power Pivot to perform calculations on data fields. It helps derive new insights from the data by creating custom metrics or aggregations. Benefits include flexibility in analysis, allowing users to create tailored calculations specific to their needs, and enhancing the depth of insights derived from the data.
 
-### 4. Create visuals
-
-### 5. Create reports using MDX/CUBE functions in Excel
+### 4. Create visuals and reports using DAX and MDX/CUBE functions in Excel
 
 <img src="/FinancialSummary/pics/Summary-2.jpg" width="100%" />
 <img src="/FinancialSummary/pics/Summary-3.jpg" width="100%" />

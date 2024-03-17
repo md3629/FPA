@@ -16,6 +16,7 @@ In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed 
 ### 1. ETL: Converting our budget to a tabular format 
 #### 1.1. Preparing and transfoming Mini-budgets
 The ETL stage involves restructuring five mini-budgets stored in separate Excel spreadsheets to accommodate the required level of detail. These individual budgets are then merged with a master budget containing all costs and revenue types. The transformation process utilizes M language and loads the data into a tabular format. :point_right: _Budget/data/Budget.xlsx_
+
 <img src="/pics/QueryDependency.JPG" width="100%" /> 
 
 #### 1.2 Preparing actuals

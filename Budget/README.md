@@ -36,3 +36,7 @@ A DAX measure is a calculation formula used in Power BI and Excel Power Pivot to
 
 ### 5. Create reports using MDX/CUBE functions in Excel
 
+<img src="/FinancialSummary/pics/Summary-2.jpg" width="100%" />
+<img src="/FinancialSummary/pics/Summary-3.jpg" width="100%" />
+<img src="/FinancialSummary/pics/Summary-4.jpg" width="100%" />
+

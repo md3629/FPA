@@ -18,8 +18,9 @@ In this budgeting scenario, we adopt a bottom-up approach, emphasizing detailed 
 
 <img src="/pics/QueryDependency.JPG" width="100%" /> 
 
+:point_right: _Budget/data/Budget.xlsx_
 #### 1.2 Preparing actuals
-
+:point_right: _Budget/data/Actuals.xlsx_
 #### 1.3 Merging Actuals and Budget
 
 ### 2. Creating star schema

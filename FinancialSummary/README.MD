@@ -1,4 +1,4 @@
-# Solutions
+# Solution
  
 <h2>Financial summary with Power Pivot</h2>
 <img src="/FinancialSummary/pics/Summary-1.jpg" width="100%" />

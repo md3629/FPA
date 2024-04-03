@@ -1,4 +1,4 @@
-<img src="FPA/pics/Excel.svg.png" align="right" width="10%" />
+<img src="/pics/Excel.svg.png" align="right" width="10%" />
 
 pics/Excel.svg.png
 

@@ -1,7 +1,5 @@
 <img src="/pics/Excel.svg.png" align="right" width="10%" />
 
-pics/Excel.svg.png
-
 # FP&A[^1]
  [^1]: :point_right: [my tools](https://md3629.github.io/)
 

@@ -1,3 +1,5 @@
+<img src="data/Rlogo.png" align="right" width="10%" />
+
 # FP&A[^1]
  [^1]: :point_right: [my tools](https://md3629.github.io/)
 

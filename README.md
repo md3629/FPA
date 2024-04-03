@@ -1,4 +1,4 @@
-<img src="pics/Excel.svc" align="right" width="10%" />
+<img src="pics/Excel.svc.pnc" align="right" width="10%" />
 
 # FP&A[^1]
  [^1]: :point_right: [my tools](https://md3629.github.io/)
